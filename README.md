@@ -8,10 +8,10 @@
 关于评级，评级时刻在自动下降，只有在人物击中敌人时，会提升评级，故只有不断地打击敌人才能提升评级，共有DCBAS五个等级。</br>
 游戏由unity实现，针对移动端和PC采用不同的交互适配。移动端的样品位于apk/trailblazer.apk，美术资源全部来源于网络</br>
 </br>
-A 3D ARPG Game about sword and magic, build by Unity.</br>
+A 3D ARPG Game about sword and magic, built by Unity.</br>
 The character can use a sword, a bow and arrows, and a dagger.<br/>
 There are 5 battle ranks, including D, C, B, A and S.<br/>
-The battle rank can be improved by attacking enemy, if you stop attacking, it will also decline. <br/>
+The battle rank can be improved by attacking enemies, if you stop attacking, it will also decline. <br/>
 This game can be deployed on Android and Windows system, apk for Android is in apk/trailblazer.apk <br/>
 </br>
 </br>
